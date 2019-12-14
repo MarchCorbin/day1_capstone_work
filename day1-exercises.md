@@ -24,3 +24,4 @@ A semantic markup is data that is being described in the code but is not necessa
 <article>
 <footer>
 https://codepen.io/oxidusnake/pen/RwNGGNG
+This is additional text as I try to get this to upload to github.
